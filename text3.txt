@@ -1,2 +1,3 @@
 tthis is text3 file
 second line added from VS 
+Line added from Github
